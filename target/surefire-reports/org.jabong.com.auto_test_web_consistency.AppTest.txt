@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.jabong.com.auto_test_web_consistency.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.062 sec <<< FAILURE! - in org.jabong.com.auto_test_web_consistency.AppTest
+testAnalyser(org.jabong.com.auto_test_web_consistency.AppTest)  Time elapsed: 0.061 sec  <<< FAILURE!
+java.lang.AssertionError: null
+	at org.jabong.com.auto_test_web_consistency.AppTest.testAnalyser(AppTest.java:32)
+
